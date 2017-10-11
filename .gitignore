@@ -19,3 +19,7 @@
   npm-debug.log*
   yarn-debug.log*
   yarn-error.log*
+
+  # old versions of game
+  minesweeper1.js
+  minesweeper2.js
